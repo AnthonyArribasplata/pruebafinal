@@ -10,7 +10,6 @@ namespace pruebafinal
     {
         static void Main(string[] args)
         {
-            int prueba=0;
             Console.WriteLine(" SISTEMA DE CONTROL DE ACCESO A RED");
 
             Console.WriteLine();
